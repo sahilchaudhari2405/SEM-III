@@ -1,5 +1,7 @@
-*RISC (Reduced instruction set computer) architecture*
-*Diagram*
+# Unit 2 - Instruction Set
+
+### *RISC (Reduced instruction set computer) architecture*
+![RISC Architecture](assets/risc.png)
 RISC stands for Reduced instruction set computer this type of architecture of used to process the instruction set, this are the parts of work to be performed in order to process the entire work. Therefore for handling this entire architecture of the computer process is done by the instruction set.
 
 There are 5 parameters for RISC architecture that are
@@ -9,7 +11,7 @@ There are 5 parameters for RISC architecture that are
 4) Main Memory - Now the data from main memory will get transferred to the instruction cache.
 5) Instruction cache - It is the particular arrangement which is used to keep all the instructiona in a particular unit, then the completion of the process is remarked to the control unit. In this way RISC architecture takes place.
 
-*CISC (Complex Instruction Set Computer)  architecture
+### *CISC (Complex Instruction Set Computer)  architecture
 *Diagram*
 This architecture can handle one instruction at a one single time therefore there are 5 types of block which performs the operation on CISC.
 
