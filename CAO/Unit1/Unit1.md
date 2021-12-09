@@ -54,6 +54,7 @@ There are two sections
 Computer functions and interconnection
 
 ![Functions of computert](assets/comp-functions.png)
+
 Diagrammatic representation of basics functions of computer are as follows-
 - Input- Inputs are passed to the computer. The input will get processed that means performing some operations on the input.
 - processing
