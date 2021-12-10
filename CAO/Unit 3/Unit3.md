@@ -7,7 +7,7 @@ In Arithmetic the operations like addition, subtraction, multiplication and divi
 
 The diagrammatic representation of ALU is as follows
 
-![ALU](assets/alu.pgn)
+![ALU](assets/alu.png)
 
 Control unit is the manager of the entire structure of arithmetic and logic unit, it can perform the operation on the basis of three parameters that is
 
