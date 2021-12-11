@@ -54,4 +54,4 @@ In order to perform the operation of integer arithmetic then it gets followed on
 
 ### Parameters for operation
 
-- Arithmetic operations gets performed with the help of 3 bits. Here "0" is represented as "000" and "1" is represented as "001" in a 3 bit format. This representation is mostly used to in order to get the proper result and the proper content. All types of arithmetic operation gets performed with the help of 3bit format in CAO. There this contents are considered as arithmetic content
+- Arithmetic operations gets performed with the help of 3 bits. Here **0** is represented as **000** and **1** is represented as **001** in a 3 bit format. This representation is mostly used to in order to get the proper result and the proper content. All types of arithmetic operation gets performed with the help of 3bit format in CAO. There this contents are considered as arithmetic content
