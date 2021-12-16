@@ -66,3 +66,51 @@ Virtual memory is not any real content and it cannot be seen by the naked eyes. 
 ![Virtual Memory](assets/virtual-memory.png)
 
 Firstly the user will send the request to the physical memory, physical memory will pass the request to the virtual memory then the virtual memory will give its feedback to the memory map therefore memory map will send the feedback to the physical memory, the physical memory will convey the message to the user. In this way the operation of virtual memory takes place. This operation is performed in both the cases, whether the response is yes or no.
+
+**Date(15/12/2021)**
+
+### Cache memory
+
+![Cache Memory](assets/cache.png)
+
+Cache memory is a temporary memory which stores the data on temporary basis whenever main memory does not have enough space to store the data at that time cache memory is used.
+
+Here the data gets stored inside the cache memory the data gets stored in the pattern of category stages. Therefore whenever we have the data of huge capacity at that time the data gets stored in Level 1 Cache but when the data is of medium range at that time it gets stored in Level2 Cache, but when the data is of very small capacity at that time it gets stored in Level3 Cache. Therefore types of content is very primary content to store it temporarily, there are two main access coordinator that is CPU and main memory whenever they want to access the data at that time they can make use of any type of data according to their choice in this way cache memory works.
+
+### Memory controller
+
+The diagramatic representation of memory controller is as follows
+
+![Memory Controller](assets/memory-controller.png)
+
+- Memory Controller is the particular component which is used to handle all the mechanism in between the memory and the CPU. In short we can say that memory controller is the particular mediator component which handles all the operations related to CPU and the memory unit. Therefore such a component is termed as memory controller.
+
+- The operations of memory and CPU gets done by using the control signals therefore control signals have the responsibility to manage and handle all the data and addresses at the particular zone. Therefore whenever we want to perform a new operation at that time we should have to know about the proper addresses related to the data. Therefore by using this we can easily detect the contents and handle all the operations where the data is appropriately stored. 
+
+**Working of memory controller is as follows**
+
+Firstly the data has been sent from memory to the CPU, CPU stores the data appropriately and send the actual address where the exact has been stored, therefore by using this technique we come to know the actual address of the data were the exact material gets stored. Arch type of the concept is termed as memory controller.
+
+### External Memory in computer organization
+
+![External Memory](assets/external-memory.png)
+
+**Organization and characteristics of Magnetic Disk**
+
+The characteristics of Magnetic Disk is as follows
+
+1. Fixed head disk
+
+ - It consist of only one head that means it can perform read/write operation from the one end, it is mounted on a particular arm which can cover maximum distance at one go therefore it is termed as the movable head disk also. 
+
+2. Movable head disk - as the magnetic disk can cover huge distance and it performs all the tracks therefore we can cover huge space
+
+3. Non removable disk- As it is permanently mounted disk because it can not be changed once it is placed. Therefore such type of the permanent mounted track disk is termed as non removable disk because we can make the changes to it but we cannot remove it. 
+
+Non-Removable disk -
+
+When we want to remove the current disk at that we have to replace that disk with the another one.
+
+Floppy disk and zip cartridge are the example of replaceable risk it can store unlimited amount of data and the disk can be moved from one computer system to another. These are the advantages of removable disk over non removable disks. 
+
+Double sided disk - these type of disk can be used from both the sides, therefore this type of disks are termed as Magnetic disks.
