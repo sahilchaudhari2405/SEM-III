@@ -77,6 +77,8 @@ Cache memory is a temporary memory which stores the data on temporary basis when
 
 Here the data gets stored inside the cache memory the data gets stored in the pattern of category stages. Therefore whenever we have the data of huge capacity at that time the data gets stored in Level 1 Cache but when the data is of medium range at that time it gets stored in Level2 Cache, but when the data is of very small capacity at that time it gets stored in Level3 Cache. Therefore types of content is very primary content to store it temporarily, there are two main access coordinator that is CPU and main memory whenever they want to access the data at that time they can make use of any type of data according to their choice in this way cache memory works.
 
+**Date(16/12/2021)**
+
 ### Memory controller
 
 The diagramatic representation of memory controller is as follows
