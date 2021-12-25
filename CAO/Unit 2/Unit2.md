@@ -48,7 +48,9 @@ Operands are the one on which the operation is performed. Some of the operands a
 4) Logical Data - The data which is represented in the form of logical one and zero or in the bit format say 1 or 0 or in boolean format say true or false is called logical data.
 
 The representation of format is as follows
+
 ![Instruction structure](assets/instruction-format.png)
+
 Instruction format is the particular structure to join to write the instructions in the proper structure there are three types of parameter in instruction format.
 1) opcode- these are the particular symbols which are used
 Therefore such type of the symbol are known as the opcode
@@ -76,7 +78,9 @@ There are five types of addressing modes which are as follows:
 ![Immediate addressing mode](assets/immediate-addressing.png)
 
 2) Direct addressing mode - In this case the address specifies where our operand is stored inside the memory therefore such type of direct address given is termed as direct addressing mode. 
+
 ![Direct addressing mode](assets/direct-addressing.png)
+
 3) Register direct addressing mode - In this case the operand are hossen behind the register therefore whenever we look into the register it refers to the operand which is placed inside register set. Therefore such type of the addressing mode is termed as register direct addressing mode
 
 4) Register indirect addressing mode - in this case we've the register number in place of operand therefore whenever we click on the register number at that time our cursor redirects us to the memory address which is inside of the registers. Therefore whenever we click on memory address at that time we can directly move on to the operand where the exact instruction variable is stored such type of the addressing mode is termed as register indirect addressing mode
@@ -85,15 +89,20 @@ There are five types of addressing modes which are as follows:
 
 ![Implied addressing mode](assets/implied-addressing.png)
 
-Instruction execution
+### Instruction execution
+
 ![Instrction execution](assets/instruction-lifecycle.png)
+
 The execution of instruction set is as follows
 1) firstly all the instruction are combined together and placed at the start step when the instruction is send to the fetch instruction at that time the opcode and operand is detected.
 2) fetch instruction will send the instruction to the decode instruction, the decode instruction will take out the numbers from the operand, afterwards the decode Instruction is sent to the execution step. This cycle repeats until the operation gets takes place, when the execution is completed entirely at that time the entire instruction set will get halt. In this way the instruction gets executed.
 
 *Date(07/12/2021)*
+
 ### Assembly Language* 
+
 ![Assembly language](assets/assembly-language.png)
+
 Assembly language are the low level languages that means the language which uses symbols and labels such type of the language is termed as assembly language there are 2 parts of assembly language that is Instructions and*addresses*
 Instruction stands for the work to be done and addresses gives us the value on which we are going to perform the operation. 
 The are four types of component 
