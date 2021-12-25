@@ -56,7 +56,7 @@ In order to perform the operation of integer arithmetic then it gets followed on
 ### 2s complemnet
 Calculation - Take the Boolean complement of each bit of the corresponding positive number, then add 1 to the resulting bit pattern viewed as an unsigned integer.
 
-[Example of 2s complement](assets/example.png)
+![Example of 2s complement](assets/example.png)
    
 ![Addition in 2's complement](assets/complement-2s.png)
 
