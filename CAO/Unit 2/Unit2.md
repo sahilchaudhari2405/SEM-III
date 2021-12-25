@@ -114,6 +114,9 @@ We cannot make use of '.' (dot) symbol in order to perform the operation therefo
 The diagrammatic representation of machine state is as follows
 Machine State is a particular state of showing our computer, whether it is in a on state or off state therefore such type of these status knowing concept of the computer system is termed as machine State. In this concept buttonPressed() function is used in order to turn on/off our computer. Therefore such type of the notation of the computer through this button it is known as Machine State.
 
+
+**Date(08/12/2021)**
+
 ### Processor Status 
 The operation of processsor status is something which describes fully the condition of a processor at each instant. It indicates which classes of operations are allowed and which are forbidden, and the status of all interrupts associated with the processor.
 Maninly there are 5 status flags which are as follows:
@@ -122,3 +125,32 @@ Maninly there are 5 status flags which are as follows:
 3) Carry Flag C - Indicates when a bit of the result is to be carried to or borrowed from another byte. Also used for rotate and shift operations.
 4) Overflow flag V - Indicates that a result of an signed arithmetic operation exceeds the signed value range.
 5) Sticky Overflow Q - a sticky version of overflow created by instructions that generate multiple results.
+
+### Types of operation
+There are 6 type of operations in instruction set
+1) Arithmetic operation - With the help of this all the arithmetic operation gets perform like +,-,x,/ ADD,SUB,MUL,DIV and operation like greater than or less than etc.
+2) Logical Operation - The instrcutions used to perform logical operation like AND, OR, XOR.
+3) Data transfer - The most fundamental type of machine instruction is the data transfer instruction. If both source and destination are registers, then the CPU simply causes data to be transferred from one register to another this is an operation internal to the CPU.
+4) System control - Instructions to change the program execution sequence or to control the flow of operation execution.
+5) I/O operation - Transfer data from one specified i/o port or device to destination.
+6) Conversion - Conversion instructions are those that change the format or operate on the format of data. An example is converting from decimal to binary.
+7) Transfer of control - The instructions in any program have some of their functions changing the sequence of instruction execution. these instructions are conditional and unconditional branching operations.
+
+
+**Date(09/12/2021)**
+
+### Structure of program in instruction set
+
+The general structure of writing the instruction set program depends upon the 4 parameters
+1) Opcode - it stands for the symbol of the operator with the help of which we can perform the operation therefore the symbol which is used in order to provide operations in arithmetic manner. Therefore such type of the symbol which is used is termed as opcode.
+
+2) Address1 - it is a particular type of input parameter which is used to send the source data, therefore we can say that Address1 is the basic address of the sender location computer. Therefore it is termed as source address also.
+
+3) Address2 - it is the address of the destination location which is used to retrieve the final output. Here Address2 is also known as secondary address which is used to store the outputted data. Therefore such type of the next address is termed as final detected address result.
+
+4) Operand - it is the variable names which are used to perform any type of operation. Therefore operation is one of the parameter which is only done by the Operand.
+Operand can be immediate value, direct value as well as the register value also. Therefore such type of parameter is termed as Operand.
+
+![program syntax in instrcution set](assets/instruction-structure.png)
+
+
