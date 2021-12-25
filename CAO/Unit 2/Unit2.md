@@ -118,7 +118,7 @@ We cannot make use of '.' (dot) symbol in order to perform the operation therefo
 
 ### Machine State 
 
-![Machine State ](assets/instruction-lifecycle.png)
+![Machine State ](assets/machine-state.png)
 
 The diagrammatic representation of machine state is as follows
 Machine State is a particular state of showing our computer, whether it is in a on state or off state therefore such type of these status knowing concept of the computer system is termed as machine State. In this concept buttonPressed() function is used in order to turn on/off our computer. Therefore such type of the notation of the computer through this button it is known as Machine State.
@@ -128,6 +128,9 @@ Machine State is a particular state of showing our computer, whether it is in a 
 
 ### Processor Status 
 The operation of processsor status is something which describes fully the condition of a processor at each instant. It indicates which classes of operations are allowed and which are forbidden, and the status of all interrupts associated with the processor.
+
+![Processor Status](assets/processor-status.png)
+
 Maninly there are 5 status flags which are as follows:
 1) Negative N - when this flag value is 1 it indicates that the result of the operation is negative.
 2) Zero flag Z - the zero flag is set to 1 when the result of an arithmetic operation is zero.
@@ -150,6 +153,8 @@ There are 6 type of operations in instruction set
 
 ### Structure of program in instruction set
 
+![program syntax in instrcution set](assets/instruction-structure.png)
+
 The general structure of writing the instruction set program depends upon the 4 parameters
 1) Opcode - it stands for the symbol of the operator with the help of which we can perform the operation therefore the symbol which is used in order to provide operations in arithmetic manner. Therefore such type of the symbol which is used is termed as opcode.
 
@@ -160,6 +165,6 @@ The general structure of writing the instruction set program depends upon the 4 
 4) Operand - it is the variable names which are used to perform any type of operation. Therefore operation is one of the parameter which is only done by the Operand.
 Operand can be immediate value, direct value as well as the register value also. Therefore such type of parameter is termed as Operand.
 
-![program syntax in instrcution set](assets/instruction-structure.png)
+
 
 
