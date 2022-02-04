@@ -1,0 +1,4 @@
+The name of the student is - Lovely
+The Roll number of the student is - 101
+The Enrollment number of the student is - 1915430221
+Destructor invoked
