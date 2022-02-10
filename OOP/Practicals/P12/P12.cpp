@@ -47,15 +47,15 @@ class Staff:public College{
       void getStaffData(){
           cout<<"Enter Staff Name: ";
           cin>>staffName;
-          cout<<"Enter Staff Age: ";
+          cout<<"Enter Staff Department: ";
           cin>>staffAge;
-          cout<<"Enter Staff Phone number: ";
+          cout<<"Enter Staff Subject: ";
           cin>>staffPhone;
       }
       void displayStaffData(){
           cout<<"Staff Name is: "<<staffName;
-          cout<<"\nStaff Age is: "<<staffAge;
-          cout<<"\nStaff Phone number is: "<<staffPhone<<endl;
+          cout<<"\nStaff Department is: "<<staffAge;
+          cout<<"\nStaff Subject is: "<<staffPhone<<endl;
       }
 };
 
