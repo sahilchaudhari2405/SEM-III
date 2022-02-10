@@ -1,0 +1,12 @@
+The elements of matrix 1 are:
+1 2 3
+4 5 6
+7 8 9
+The elements of matrix 2 are:
+1 2 3
+4 5 6
+7 8 9
+The sum of matrix 1 and 2 is :
+2 4 6
+8 10 12
+14 16 18
