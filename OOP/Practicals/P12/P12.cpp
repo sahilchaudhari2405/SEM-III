@@ -41,21 +41,20 @@ class Student:public College{
 };
 
 class Staff:public College{
-    char staffName[20],staffPhone[10];
-    int staffAge;
+    char staffName[20],staffSubject[10],staffDepartment[10];
     public:
       void getStaffData(){
           cout<<"Enter Staff Name: ";
           cin>>staffName;
           cout<<"Enter Staff Department: ";
-          cin>>staffAge;
+          cin>>staffDepartment;
           cout<<"Enter Staff Subject: ";
-          cin>>staffPhone;
+          cin>>staffSubject;
       }
       void displayStaffData(){
           cout<<"Staff Name is: "<<staffName;
-          cout<<"\nStaff Department is: "<<staffAge;
-          cout<<"\nStaff Subject is: "<<staffPhone<<endl;
+          cout<<"\nStaff Department is: "<<staffDeparment;
+          cout<<"\nStaff Subject is: "<<staffSubject<<endl;
       }
 };
 
