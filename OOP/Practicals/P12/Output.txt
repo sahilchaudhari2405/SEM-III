@@ -18,12 +18,12 @@ Enter College name: Bit
 Enter College address: Ballarpur
 Enter College phone number: 234682
 Enter Staff Name: Ritesh
-Enter Staff Age: 35
-Enter Staff Phone number: 8766478589
+Enter Staff Deparment: Computer
+Enter Staff Subject: OOP
 
 College Name is: Bit
 College Address is: Ballarpur
 College Phone number is: 234682
 Staff Name is: Ritesh
-Staff Age is: 35
-Staff Phone number is: 8766478589
+Staff Department is: Computer
+Staff Subject is: OOP
