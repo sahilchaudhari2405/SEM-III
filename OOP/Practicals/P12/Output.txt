@@ -1,0 +1,29 @@
+Student
+Enter College name: Bit
+Enter College address: Ballarpur
+Enter College phone number: 234682
+Enter student Name: Lovely
+Enter student Age: 20
+Enter student Phone number: 87664819604
+
+College Name is: Bit
+College Address is: Ballarpur
+College Phone number is: 234682
+Student Name is: Lovely
+Student Age is: 20
+Student Phone number is: 87664819604
+
+Staff
+Enter College name: Bit
+Enter College address: Ballarpur
+Enter College phone number: 234682
+Enter Staff Name: Ritesh
+Enter Staff Deparment: Computer
+Enter Staff Subject: OOP
+
+College Name is: Bit
+College Address is: Ballarpur
+College Phone number is: 234682
+Staff Name is: Ritesh
+Staff Department is: Computer
+Staff Subject is: OOP

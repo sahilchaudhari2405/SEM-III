@@ -1,0 +1,4 @@
+Value of obj 1 : 10
+Value of obj 2 : 5
+The addition of two objects is: 15
+The subtraction of two objects  is: 5
